@@ -24,5 +24,13 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - images/
+    - fonts/
 
+  fonts:
+    - family: ComicNeue     
+      fonts:
+        - asset: fonts/ComicNeue-Regular.ttf
 
+    - family: Merriweather     
+      fonts:
+        - asset: fonts/Merriweather-Regular.ttf
